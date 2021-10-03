@@ -18,7 +18,7 @@ Il y a 3 types d'exercices.
 - [le typage en TypeScript](./typage.ts)
 - [Première impression sur la structure d'une maquette](./css.md)
 
-merci de commit sur ton repo à chaque fin d'exercice. 😁
+merci de commit et de push sur ton repo à chaque fin de partie. 😁
 
 Á toi de jouer !!
 

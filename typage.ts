@@ -20,8 +20,7 @@ const peoples = [people, secondPeople];
 // your code here
 
 // Exercice n°3
-// créer type pour la variable gender qui peut contenir soit male soit female en valeur
-const gender = "female";
+// créer un type ENUM pour  qui peut contenir soit male" soit "female" en valeur
 // your code here
 
 // Exercice n°4

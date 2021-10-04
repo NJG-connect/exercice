@@ -1,11 +1,5 @@
 // ALGO EXERCICE
 
-// Completer la fonction pour multiplier par deux chaque itération du tableau
-function multiple(arr) {
-  // your code here
-}
-console.log(multiple([1, 2, 3])); // [2, 4, 6]
-
 // Completer la fonction qui renvoie le nombre de valeurs true qu'il y a dans le tableau.
 function countTrue(arr) {
   // your code here
@@ -14,8 +8,9 @@ console.log(countTrue([true, false, false, true, false])); // 2
 console.log(countTrue([false, false, false, false])); // 0
 console.log(countTrue([])); // 0
 
-// Completer la fonction qui prend un tableau de nombres et renvoie "Boom" si le chiffre 7 parmi les éléments du tableau. Sinon, retournez  "Bruh".
+// Completer la fonction qui prend un tableau de nombres et renvoie "Boom" si le chiffre 7 est parmi les éléments du tableau. Sinon, retournez  "Bruh".
 // Difficulter supplementaire: ne pas créer de variable
+// Attention dans 76 il y a un 7 !!
 function sevenBoom(arr) {
   // your code here
 }

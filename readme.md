@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.svg" alt="Lyatom cms" width="50%" />
+  <img src="./assets/logo.svg" alt="NJG Connect" width="50%" />
 </p>
 <h1 align="center">Exercice</h1>
 
@@ -20,6 +20,9 @@ Il y a 3 types d'exercices.
 
 merci de commit et de push sur ton repo à chaque fin de partie. 😁
 
+ou de passer par ce lien pour le JS & le TypeScript [replit.com/@JeremyNoh/Entretien](https://replit.com/@JeremyNoh/Entretien)
+et [draw.chat](https://draw.chat/) pour le CSS
+
 Á toi de jouer !!
 
 PS: cela va de soit que tu as le droit de t'aider de google... ( de toute façon je n'aurai pas pu controller 😂)
@@ -29,4 +32,4 @@ PS: cela va de soit que tu as le droit de t'aider de google... ( de toute façon
 
 > N'hesites pas à rajouter une remarque juste en dessous de ce fichier, si tu as des retours à me faire
 
-Remarque : Je t'écoute
+Remarque : _Je t'écoute_
